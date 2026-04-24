@@ -99,9 +99,7 @@ The backend aggregates model outputs and exposes API endpoints consumed by the f
 - scikit-learn
 - Gunicorn
 
-### API Base
 
-- http://localhost:5000/api
 
 ### Key Endpoints
 
@@ -139,8 +137,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Backend default URL:
-- http://localhost:5000
+
 
 ### Step B: Run Frontend
 
