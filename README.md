@@ -147,8 +147,7 @@ npm install
 npm run dev
 ```
 
-Frontend default URL:
-- http://localhost:5173
+
 
 The frontend dev server proxies /api requests to the backend on port 5000.
 
